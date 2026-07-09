@@ -21,9 +21,9 @@ const PUZZLE = {
       words: ["Queen", "Blondie", "Kiss", "Eagles"],
     },
     {
-      title: "___ Street",
+      title: "Things that Oscar Raises",
       colour: "purple",
-      words: ["Wall", "Canal", "Main", "Easy"],
+      words: ["The Roof", "Broken PR", "Salaries", "Exceptions"],
     },
   ],
 };
