@@ -6,7 +6,7 @@ const PUZZLE = {
   date: "July 10, 2026",
   groups: [
     {
-      title: "Omni",
+      title: "Heard in an Omni Demo",
       colour: "yellow",
       words: ["L1", "Blobby", "Model", "Connections"],
     },
