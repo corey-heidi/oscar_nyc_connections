@@ -23,7 +23,7 @@ const PUZZLE = {
     {
       title: "Things that Oscar Raises",
       colour: "purple",
-      words: ["The Roof", "Broken PR", "Salaries", "Exceptions"],
+      words: ["The Roof", "Broken PR", "Salaries", "Incidents"],
     },
   ],
 };
