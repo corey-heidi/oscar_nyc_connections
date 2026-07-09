@@ -6,24 +6,24 @@ const PUZZLE = {
   date: "July 10, 2026",
   groups: [
     {
-      title: "NYC Boroughs",
+      title: "Omni",
       colour: "yellow",
-      words: ["Bronx", "Queens", "Brooklyn", "Manhattan"],
+      words: ["L1", "Blobby", "Model", "Connections"],
     },
     {
-      title: "Classic Cocktails",
+      title: "Things That Oscar Raises",
       colour: "green",
-      words: ["Cosmo", "Gimlet", "Mimosa", "Negroni"],
+      words: ["Broken PR", "Incident", "The Roof", "Our Salaries"],
     },
     {
-      title: "Rock Bands",
+      title: "Let Oscar Down at Heidi",
       colour: "blue",
-      words: ["Queen", "Blondie", "Kiss", "Eagles"],
+      words: ["Sydney Office Wi-Fi", "Elevator", "Campfire", "No Project Updates"],
     },
     {
-      title: "Things that Oscar Raises",
+      title: "Ending in a Homophone of a GitHub Term",
       colour: "purple",
-      words: ["The Roof", "Broken PR", "Salaries", "Incidents"],
+      words: ["Work Peer", "Swimming Pool", "Designer Cologne", "Lion's Mane"],
     },
   ],
 };
