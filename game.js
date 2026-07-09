@@ -3,7 +3,7 @@
 // ---------- Puzzle definition (static, one-off) ----------
 
 const PUZZLE = {
-  date: "July 9, 2026",
+  date: "July 10, 2026",
   groups: [
     {
       title: "NYC Boroughs",
